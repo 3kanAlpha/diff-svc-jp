@@ -1,4 +1,4 @@
-# Diff-SVC
+# Diff-SVC (Copy)
 Singing Voice Conversion via diffusion model
 
 ## updates:
